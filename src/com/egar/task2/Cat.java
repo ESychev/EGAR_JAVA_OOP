@@ -1,10 +1,19 @@
 package com.egar.task2;
 
+/**
+ * The Interface Cat.
+ *
+ * @author Sychev Evgenii
+ */
 public interface Cat {
-  String barsic = "barsic";
-  String myrzic = "myrzic";
-  String myrka = "myrka";
-  
-  
-  
+
+	/** The barsic. */
+	String barsic = "barsic";
+
+	/** The myrzic. */
+	String myrzic = "myrzic";
+
+	/** The myrka. */
+	String myrka = "myrka";
+
 }
